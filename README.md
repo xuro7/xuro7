@@ -10,14 +10,14 @@
 
 <br>
 
-**about**
 i love alex g
 
-**stack**
 c / c++ / rust • x64 • windows kernel
 
 **links**
-website: <a href="https://kazuro.lol">kazuro.lol</a> • website: <a href="https://inumbra.club">inumbra.club</a> • github: <a href="https://github.com/xuro7">xuro7</a>
+<a href="https://kazuro.lol">kazuro.lol</a> 
+<a href="https://inumbra.club">inumbra.club</a>
+<a href="https://github.com/xuro7">xuro7</a>
 
 <br>
 
