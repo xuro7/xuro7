@@ -21,7 +21,7 @@ c / c++ / rust • x64 • windows kernel
 ## links
 
 - website: https://kazuro.lol
-- website: inumbra.club
+- website: https://inumbra.club
 - github: https://github.com/xuro7
 
 ---
