@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=180&section=header&text=Kubxon&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1b263b&height=180&section=header&text=xuro&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -10,20 +10,7 @@
 
 ## about
 
-low-level developer focused on windows internals, kernel development, and reverse engineering.  
-systems programming, security research, and software analysis.
-
-interested in game security, memory analysis, driver development, and understanding how complex software behaves under the hood.
-
-**alex g enjoyer**
-
----
-
-## focus
-
-windows internals • kernel development • reverse engineering • game security
-
----
+**i love alex g**
 
 ## stack
 
@@ -34,7 +21,8 @@ c / c++ / rust • x64 • windows kernel
 ## links
 
 - website: https://kazuro.lol
-- github: https://github.com/Kubxon
+- website: inumbra.club
+- github: https://github.com/xuro7
 
 ---
 
